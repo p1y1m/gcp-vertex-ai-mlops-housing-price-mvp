@@ -1,5 +1,7 @@
 # End-to-End GCP MLOps Architecture for Housing Price Prediction
 
+# Author: Pedro Yanez Melendez
+
 This project implements an end-to-end MLOps workflow on Google Cloud Platform for housing price prediction, integrating data engineering, machine learning model training, managed deployment, serverless inference, prediction logging, and model monitoring.
 
 The objective of this repository is to demonstrate a production-oriented cloud architecture where a machine learning model is not only trained and deployed, but also exposed through an API, monitored through serving data, and validated through input and output drift detection.
